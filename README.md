@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @FableRift
+- 👀 I’m interested in programming, language learning, gaming
+- 🌱 I’m currently learning java, c#
+- 📫 How to reach me: fablerift@seznam,cz
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i love minecraft
