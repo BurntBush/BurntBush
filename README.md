@@ -5,4 +5,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love minecraft
   
-(FableRift is my old name, but I don't how or if I can edit the name of this repository)
+(FableRift is my old username, but I don't how or if I can edit the name of this repository)
