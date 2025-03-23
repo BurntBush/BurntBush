@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BurntBush
 - 👀 I’m interested in programming, learning new languages, gaming
-- 🌱 I’m currently learning java, c# (japanese, german)
+- 🌱 I’m currently learning python, c# | japanese, chinese, german)
 - 📫 How to reach me: burntbush@seznam.cz
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love minecraft
