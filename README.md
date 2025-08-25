@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BurntBush
 - 👀 I’m interested in programming, learning new languages, gaming
-- 🌱 I’m currently learning gdscript, python, c# | japanese, chinese, german)
+- 🌱 I’m currently learning gdscript, python, c# | chinese, german)
 - 📫 How to reach me: burntbush@seznam.cz
 - 😄 Pronouns: he/him
