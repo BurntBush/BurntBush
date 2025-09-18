@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BurntBush
+- 👋 Hi, I’m @FableRift
 - 👀 I’m interested in programming, learning new languages, gaming
-- 🌱 I’m currently learning gdscript, python, c# | chinese, german)
-- 📫 How to reach me: burntbush@seznam.cz
+- 🌱 I’m currently learning gdscript, python, c# | chinese, japanese)
+- 📫 How to reach me: fablerift@email.cz
 - 😄 Pronouns: he/him
